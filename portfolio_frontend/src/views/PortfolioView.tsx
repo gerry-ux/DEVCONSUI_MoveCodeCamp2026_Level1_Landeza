@@ -65,16 +65,14 @@ const useMetaTags = (metadata: {
 // PORTFOLIO DATA CONFIGURATION
 // ============================================================================
 const defaultPortfolioData = {
-  name: "LADY DIANE BAUZON CASILANG",
+  name: "GERRY YAN B. LANDEZA",
   course: "BS in Information Technology",
-  school: "FEU Institute of Technology",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  school: "Sorsogon State  University - Bulan Campus",
+  about: "I’m a 4th-year BSIT student with a focus on networking. I love exploring how networks operate and improving IT systems.",
   skills: [
+    "Networking",
     "Graphic Design",
-    "UI / UX Design",
     "Project Management",
-    "Full Stack Development",
-    "Web & App Development"
   ],
   linkedin: "https://www.linkedin.com/in/ldcasilang/",
   github: "https://github.com/ldcasilang",
