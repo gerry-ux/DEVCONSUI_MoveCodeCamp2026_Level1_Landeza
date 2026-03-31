@@ -74,8 +74,8 @@ const defaultPortfolioData = {
     "Graphic Design",
     "Project Management",
   ],
-  linkedin: "https://www.linkedin.com/in/ldcasilang/",
-  github: "https://github.com/ldcasilang",
+  linkedin: "https://www.linkedin.com/in/gerry-yan-landeza-6278aa3b1/",
+  github: "https://github.com/gerry-ux",
 }
 
 // Network configuration
@@ -96,7 +96,7 @@ const PortfolioView = () => {
   // ==========================================================================
   // STATE MANAGEMENT
   // ==========================================================================
-  const objectId = "0xa3343391df96e28464499f4c209d51bf209c07392fdeea97bfeee59e7550f020";
+  const objectId = "0x72df4d5ea3597cba3d1e5cdbe0f9ce1bc0704b706df84bd976e27a148405d93c";
   
   // Network state - default to testnet, can be changed if needed
   const [currentNetwork, setCurrentNetwork] = useState<"testnet" | "mainnet">("mainnet");
